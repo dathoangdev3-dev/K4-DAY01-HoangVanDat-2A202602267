@@ -144,5 +144,5 @@ Lead annotator / project manager của batch và bộ phận data governance / c
 - [x] `visuals/classification_top5.png`
 - [x] `visuals/detection_predictions.png`
 - [x] `visuals/segmentation_prediction.png`
-- [ ] Ô validation cuối notebook báo `PASS`.
+- [x] Ô validation cuối notebook báo `PASS`.
 - [x] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output.
